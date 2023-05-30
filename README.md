@@ -1,2 +1,2 @@
 # Data-Analysis-Econometrics
-Repository for Data Analysis project using R/Python
+Repository for Data Analysis projects using R/Python
