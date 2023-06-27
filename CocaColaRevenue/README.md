@@ -1,1 +1,1 @@
- Proiectul a fost centrat în jurul algoritmilor de bază de regresie liniară pe care i-am studiat în anul al doilea ca student la Universitatea din București.
+Proiect final la Econometrie si Pachete Software, unde am folosit algoritmii de baza de regresie liniara si testele de semnificatie statistica pe care le-am studiat in anul al doilea ca student la Universitatea din Bucuresti.
